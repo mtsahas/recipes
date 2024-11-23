@@ -1,0 +1,13 @@
+
+[
+    {
+        "title":"Dip",
+        "ingredients":["sour cream", "salsa", "avocado"],
+        "steps": ["layer the refried beans.", "layer the sour cream"]
+    },
+    {
+        "title":"Sweet Potato Casserole",
+        "ingredients":["Sweet potatoes", "cinnamon", "marshmallow"],
+        "steps": ["Boil the sweet potatoes.", "Mash them.", "Add ingredients"]
+    }
+]
