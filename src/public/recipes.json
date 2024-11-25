@@ -11,7 +11,28 @@
         "id":"1",
         "title":"Sweet Potato Casserole",
         "description":"Try this delicious blah blah",
-        "ingredients":["Sweet potatoes", "cinnamon", "marshmallow"],
-        "steps": ["Boil the sweet potatoes.", "Mash them.", "Add ingredients"]
+        "ingredients":["4 pounds of sweet potatoes", "1 cup of brown sugar", "3 tbsp melted butter", "1.5 tsp cinnamon", "1/4 cup of milk"],
+        "steps": ["Boil the sweet potatoes until fork tender, then peel and mash until smooth.", "Stir in brown sugar, butter, and cinnamon.", "Add milk in small amounts until you get desired consistency.", "Put in dish and cover with mini marshmallows.","Bake for 20-25 minutes at 375 F or until the marshmallows are golden brown."]
+    },
+    {
+        "id": "3",
+        "title":"Libby's Pumpkin Pie",
+        "description":"PUMPKIN PIE PUMPKIN PIE",
+        "ingredients":["3/4 cup sugar", "1 tsp cinnamon", "1/2 tsp salt", "1/2 tsp ground ginger", "1/4 tsp ground cloves", "2 eggs", "1 can (15 oz) pure pumpkin","1 can (12 fl oz) evaporated milk", "1 unbaked 9inch pie shell"],
+        "steps": ["Mix sugar, cinnamon, salt, ginger and cloves.", " Bear eggs in large bowl.", "Stir in pumpkin and sugar-spice mix to eggs, then gadually stir in evaporated milk.", "Pour in pie dish. Bake at 425 for 15 minutes, then reduce and bake at 350 for 40 minutes."]
+    },
+    {
+        "id": "4",
+        "title":"Brussel Sprouts",
+        "description":"Patty's famous of course...",
+        "ingredients":["3 pounds of brussel sprouts, washed and cleaned", "pine nuts", "olive oil", "balsamic vinegar", "salt & pepper to taste"],
+        "steps": ["Put the brussel sprouts in a baking dish. Sprinkle in pine nuts", "Drizzle with olive oil, a bit of balsamic, and season with salt and pepper.", "Bake at 350 until brown."]
+    },
+    {
+        "id": "5",
+        "title":"Cranberry sauce",
+        "description":"Tart and sweet, perfect topping for turkey. Or just eat it straight!",
+        "ingredients":["12oz bag of fresh cranberries", "3/4 cup water", "1/4 cup orange juice", "balsamic vinegar", "3/4 cup brown sugar", "Zest of 1 orange", "1/2 tsp vanilla extract"],
+        "steps": ["Combine cranberries, water, orange juice, brown sugar, and orange zest together in a sauce pan over medium heat.", "Once simmering, reduce heat to low medium.", "Stir occasionally, contuing to cook until the liquid has reduced and the cranberries have burst and thickened.","Remove from heat and add vanilla.", "Adopted from Sally's baking addiction."]
     }
 ]
