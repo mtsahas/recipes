@@ -1,14 +1,13 @@
-import Thanks from "../components/Thanks";
-import General from "../components/General";
+import Frontpage from "../components/Frontpage";
 
 // contains 2 components on the home page
 function Home() {
   return (
     <div>
-        <Thanks />
-        <General />
+      {/* <Thanks /> */}
+      <Frontpage />
     </div>
   );
 }
 
-export default Home
+export default Home;

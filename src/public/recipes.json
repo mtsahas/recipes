@@ -1,12 +1,16 @@
 
 [
     {
-        "title":"Dip",
-        "ingredients":["sour cream", "salsa", "avocado"],
-        "steps": ["layer the refried beans.", "layer the sour cream"]
+        "id": "0",
+        "title":"Baked Ziti",
+        "description":"Try this delicious and easy pasta dish! Good for making a dish that feeds many without the stress.",
+        "ingredients":["2 boxes of rigatoni", "1 jar of Rao's marinara", "1 container of ricotta", "1 block of mozzarella"],
+        "steps": ["Boil the pasta", "Mix in the ricotta, marinara, and half of the cheese", "Put in a casserole dish and top off with the remaining cheese.","Bake at 350 for 20 minutes."]
     },
-    {
+    {   
+        "id":"1",
         "title":"Sweet Potato Casserole",
+        "description":"Try this delicious blah blah",
         "ingredients":["Sweet potatoes", "cinnamon", "marshmallow"],
         "steps": ["Boil the sweet potatoes.", "Mash them.", "Add ingredients"]
     }

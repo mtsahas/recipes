@@ -1,10 +1,17 @@
-import Home from "./Home"
+import Home from "./Home";
+import Recipe from "../components/Recipe";
+import { Route, Routes, BrowserRouter } from "react-router-dom";
 
 // contains all pages
 function Pages() {
   return (
-    <div><Home /></div>
-  )
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/recipe/:id" element={<Recipe />} />
+      </Routes>
+    </BrowserRouter>
+  );
 }
 
-export default Pages
+export default Pages;
