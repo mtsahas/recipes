@@ -17,7 +17,7 @@ body {
 .newspaper {
   max-width: 800px;
   margin: 0 auto;
-  background-color: lightgrey;
+  background-color: #e5dcdcb7;
   padding: 20px;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
   border: 1px solid #ddd;
@@ -167,7 +167,7 @@ footer {
   position: absolute;
   width: 40px;
   height: 40px;
-  background-image: url("public/maple-leaf.png"); /* Replace with your leaf image */
+  background-image: url("assets/maple-leaf.png"); /* Replace with your leaf image */
   background-size: contain;
   background-repeat: no-repeat;
   animation: fall linear infinite;

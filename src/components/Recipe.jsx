@@ -1,4 +1,4 @@
-import recipes from "../public/recipes.json";
+import recipes from "../assets/recipes.json";
 import { useParams } from "react-router-dom";
 import CurrentDate from "./CurrentDate";
 
