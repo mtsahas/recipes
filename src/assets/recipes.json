@@ -1,38 +1,168 @@
-
 [
-    {
-        "id": "0",
-        "title":"Baked Ziti",
-        "description":"Try this delicious and easy pasta dish! Good for making a dish that feeds many without the stress.",
-        "ingredients":["2 boxes of rigatoni", "1 jar of Rao's marinara", "1 container of ricotta", "1 block of mozzarella"],
-        "steps": ["Boil the pasta", "Mix in the ricotta, marinara, and half of the cheese", "Put in a casserole dish and top off with the remaining cheese.","Bake at 350 for 20 minutes."]
-    },
-    {   
-        "id":"1",
-        "title":"Sweet Potato Casserole",
-        "description":"Try this delicious blah blah",
-        "ingredients":["4 pounds of sweet potatoes", "1 cup of brown sugar", "3 tbsp melted butter", "1.5 tsp cinnamon", "1/4 cup of milk"],
-        "steps": ["Boil the sweet potatoes until fork tender, then peel and mash until smooth.", "Stir in brown sugar, butter, and cinnamon.", "Add milk in small amounts until you get desired consistency.", "Put in dish and cover with mini marshmallows.","Bake for 20-25 minutes at 375 F or until the marshmallows are golden brown."]
-    },
-    {
-        "id": "3",
-        "title":"Libby's Pumpkin Pie",
-        "description":"PUMPKIN PIE PUMPKIN PIE",
-        "ingredients":["3/4 cup sugar", "1 tsp cinnamon", "1/2 tsp salt", "1/2 tsp ground ginger", "1/4 tsp ground cloves", "2 eggs", "1 can (15 oz) pure pumpkin","1 can (12 fl oz) evaporated milk", "1 unbaked 9inch pie shell"],
-        "steps": ["Mix sugar, cinnamon, salt, ginger and cloves.", " Bear eggs in large bowl.", "Stir in pumpkin and sugar-spice mix to eggs, then gadually stir in evaporated milk.", "Pour in pie dish. Bake at 425 for 15 minutes, then reduce and bake at 350 for 40 minutes."]
-    },
-    {
-        "id": "4",
-        "title":"Brussel Sprouts",
-        "description":"Patty's famous of course...",
-        "ingredients":["3 pounds of brussel sprouts, washed and cleaned", "pine nuts", "olive oil", "balsamic vinegar", "salt & pepper to taste"],
-        "steps": ["Put the brussel sprouts in a baking dish. Sprinkle in pine nuts", "Drizzle with olive oil, a bit of balsamic, and season with salt and pepper.", "Bake at 350 until brown."]
-    },
-    {
-        "id": "5",
-        "title":"Cranberry sauce",
-        "description":"Tart and sweet, perfect topping for turkey. Or just eat it straight!",
-        "ingredients":["12oz bag of fresh cranberries", "3/4 cup water", "1/4 cup orange juice", "balsamic vinegar", "3/4 cup brown sugar", "Zest of 1 orange", "1/2 tsp vanilla extract"],
-        "steps": ["Combine cranberries, water, orange juice, brown sugar, and orange zest together in a sauce pan over medium heat.", "Once simmering, reduce heat to low medium.", "Stir occasionally, contuing to cook until the liquid has reduced and the cranberries have burst and thickened.","Remove from heat and add vanilla.", "Adopted from Sally's baking addiction."]
-    }
+  {
+    "id": "1",
+    "title": "Baked Ziti",
+    "description": "Try this delicious and easy pasta dish! Good for making a dish that feeds many without the stress.",
+    "ingredients": [
+      "2 boxes of rigatoni",
+      "1 jar of Rao's marinara",
+      "1 container of ricotta",
+      "1 block of mozzarella"
+    ],
+    "steps": [
+      "Boil the pasta",
+      "Mix in the ricotta, marinara, and half of the cheese",
+      "Put in a casserole dish and top off with the remaining cheese.",
+      "Bake at 350 for 20 minutes."
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Sweet Potato Casserole",
+    "description": "Try this delicious, creamy, and sweet side dish that is perfect for the holidays!",
+    "ingredients": [
+      "4 pounds of sweet potatoes",
+      "1 cup of brown sugar",
+      "3 tbsp melted butter",
+      "1.5 tsp cinnamon",
+      "1/4 cup of milk"
+    ],
+    "steps": [
+      "Boil the sweet potatoes until fork tender, then peel and mash until smooth.",
+      "Stir in brown sugar, butter, and cinnamon.",
+      "Add milk in small amounts until you get desired consistency.",
+      "Put in dish and cover with mini marshmallows.",
+      "Bake for 20-25 minutes at 375 F or until the marshmallows are golden brown."
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Libby's Pumpkin Pie",
+    "description": "A classic pumpkin pie recipe that is always a hit.",
+    "ingredients": [
+      "3/4 cup sugar",
+      "1 tsp cinnamon",
+      "1/2 tsp salt",
+      "1/2 tsp ground ginger",
+      "1/4 tsp ground cloves",
+      "2 eggs",
+      "1 can (15 oz) pure pumpkin",
+      "1 can (12 fl oz) evaporated milk",
+      "1 unbaked 9inch pie shell"
+    ],
+    "steps": [
+      "Mix sugar, cinnamon, salt, ginger and cloves.",
+      " Bear eggs in large bowl.",
+      "Stir in pumpkin and sugar-spice mix to eggs, then gadually stir in evaporated milk.",
+      "Pour in pie dish. Bake at 425 for 15 minutes, then reduce and bake at 350 for 40 minutes."
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Brussel Sprouts",
+    "description": "Patty's famous of course...",
+    "ingredients": [
+      "3 pounds of brussel sprouts, washed and cleaned",
+      "pine nuts",
+      "olive oil",
+      "balsamic vinegar",
+      "salt & pepper to taste"
+    ],
+    "steps": [
+      "Put the brussel sprouts in a baking dish. Sprinkle in pine nuts",
+      "Drizzle with olive oil, a bit of balsamic, and season with salt and pepper.",
+      "Bake at 350 until brown."
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Cranberry sauce",
+    "description": "Tart and sweet, perfect topping for turkey. Or just eat it straight!",
+    "ingredients": [
+      "12oz bag of fresh cranberries",
+      "3/4 cup water",
+      "1/4 cup orange juice",
+      "balsamic vinegar",
+      "3/4 cup brown sugar",
+      "Zest of 1 orange",
+      "1/2 tsp vanilla extract"
+    ],
+    "steps": [
+      "Combine cranberries, water, orange juice, brown sugar, and orange zest together in a sauce pan over medium heat.",
+      "Once simmering, reduce heat to low medium.",
+      "Stir occasionally, contuing to cook until the liquid has reduced and the cranberries have burst and thickened.",
+      "Remove from heat and add vanilla.",
+      "Adopted from Sally's baking addiction."
+    ]
+  },
+
+  {
+    "id": "6",
+    "title": "Apple Crisp",
+    "description": "A warm and comforting dessert made with apples and a crunchy oat topping. Perfect for fall!",
+    "ingredients": [
+      "6 cups of sliced apples",
+      "1 cup rolled oats",
+      "1/2 cup flour",
+      "3/4 cup brown sugar",
+      "1/2 tsp cinnamon",
+      "1/4 tsp nutmeg",
+      "1/4 tsp salt",
+      "1/2 cup butter",
+      "1 tbsp lemon juice"
+    ],
+    "steps": [
+      "Preheat the oven to 350°F (175°C).",
+      "Toss the sliced apples with lemon juice and place them in a greased 9-inch baking dish.",
+      "In a separate bowl, mix together oats, flour, brown sugar, cinnamon, nutmeg, and salt.",
+      "Cut the butter into small cubes and mix it into the dry ingredients until the mixture becomes crumbly.",
+      "Sprinkle the oat mixture over the apples.",
+      "Bake for 40-45 minutes or until the topping is golden and the apples are tender."
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Vegetable Stuffing",
+    "description": "A savory and hearty stuffing made with vegetables, perfect for the holidays or as a side dish.",
+    "ingredients": [
+      "1 loaf of gluten-free bread, cubed",
+      "1 cup carrots, diced",
+      "1 cup celery, diced",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "1/2 cup vegetable broth",
+      "2 tbsp olive oil",
+      "1 tsp dried sage",
+      "1 tsp dried thyme",
+      "Salt & pepper to taste"
+    ],
+    "steps": [
+      "Preheat the oven to 350°F (175°C).",
+      "In a large skillet, heat olive oil over medium heat and sauté the carrots, celery, onion, and garlic until softened, about 8-10 minutes.",
+      "Add the dried sage and thyme, and season with salt and pepper.",
+      "In a large bowl, combine the sautéed vegetables with the cubed bread and vegetable broth. Mix well.",
+      "Transfer the mixture to a greased baking dish and cover with foil.",
+      "Bake for 30 minutes, then remove the foil and bake for an additional 10 minutes to crisp up the top."
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Apple Cider Martini",
+    "description": "A festive and refreshing cocktail that combines the sweet and tart flavors of apple cider with a touch of vodka and cinnamon.",
+    "ingredients": [
+      "2 oz vodka",
+      "1 oz apple cider",
+      "1/2 oz lemon juice",
+      "1/4 oz cinnamon syrup",
+      "Ice",
+      "Apple slices and cinnamon stick for garnish"
+    ],
+    "steps": [
+      "Fill a cocktail shaker with ice.",
+      "Add vodka, apple cider, lemon juice, and cinnamon syrup.",
+      "Shake well until chilled.",
+      "Strain into a chilled martini glass.",
+      "Garnish with apple slices and a cinnamon stick."
+    ]
+  }
 ]

@@ -4,7 +4,7 @@ import CurrentDate from "./CurrentDate";
 
 function Recipe() {
   const { id } = useParams();
-  const recipe = id < recipes.length ? recipes[id] : recipes[0];
+  const recipe = id < recipes.length ? recipes[id - 1] : recipes[0];
 
   return (
     <div className="newspaper">

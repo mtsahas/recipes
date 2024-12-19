@@ -6,7 +6,7 @@ import FallingLeaves from "./FallingLeaves";
 function Frontpage() {
   return (
     <>
-      {/* <FallingLeaves /> */}
+      <FallingLeaves />
       <div className="newspaper">
         <header>
           <h1>The Daily News</h1>
@@ -16,9 +16,9 @@ function Frontpage() {
           <article className="main-article">
             <h2>Headline Story: Thanksgiving at the Tsahas Residence</h2>
             <p>
-              This coming Thursday, November 28th, the Tsahas family is hosting
-              their annual Thanksgiving dinner, filled with delicious eats and
-              drinks. Catch a sneak peak at the menu below!
+              On Thursday, November 28th 2024, the Tsahas family hosted their
+              annual Thanksgiving dinner, filled with delicious eats and drinks.
+              Catch an exclusive look at the menu below!
             </p>
           </article>
 
