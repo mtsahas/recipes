@@ -24,7 +24,7 @@ function Frontpage() {
 
           <section className="columns">
             {recipes.map((recipe, index) => (
-              <Link className="article-link" to={`recipe/${recipe.id}`}>
+              <Link className="article-link" to={`/recipes/${recipe.id}`}>
                 <article key={index}>
                   <h3>{recipe.title}</h3>
                   <p>{recipe.description}</p>

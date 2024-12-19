@@ -8,7 +8,8 @@ function Pages() {
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/recipe/:id" element={<Recipe />} />
+        <Route path="/recipes" element={<Home />} />
+        <Route path="/recipes/:id" element={<Recipe />} />
       </Routes>
     </BrowserRouter>
   );
