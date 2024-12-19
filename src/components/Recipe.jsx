@@ -1,6 +1,7 @@
 import recipes from "../assets/recipes.json";
 import { useParams } from "react-router-dom";
 import CurrentDate from "./CurrentDate";
+import FallingLeaves from "./FallingLeaves";
 
 function Recipe() {
   const { id } = useParams();
@@ -8,6 +9,7 @@ function Recipe() {
 
   return (
     <div className="newspaper">
+      <FallingLeaves />
       <a className="back-button" href="/">
         {" "}
         Return home{" "}
