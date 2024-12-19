@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/delicious/static/css/main.37b546e9.css",
+    "main.js": "/delicious/static/js/main.2ad0b503.js",
+    "static/media/maple-leaf.png": "/delicious/static/media/maple-leaf.c395cfbd23f6892a4f6d.png",
+    "index.html": "/delicious/index.html",
+    "main.37b546e9.css.map": "/delicious/static/css/main.37b546e9.css.map",
+    "main.2ad0b503.js.map": "/delicious/static/js/main.2ad0b503.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37b546e9.css",
+    "static/js/main.2ad0b503.js"
+  ]
+}
