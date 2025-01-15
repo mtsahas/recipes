@@ -10,7 +10,7 @@ function Recipe() {
   return (
     <div className="newspaper">
       <FallingLeaves />
-      <a className="back-button" href="/">
+      <a className="back-button" href="/recipes">
         {" "}
         Return home{" "}
       </a>
