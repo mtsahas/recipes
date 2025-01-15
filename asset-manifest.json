@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/recipes/static/css/main.f16c1766.css",
-    "main.js": "/recipes/static/js/main.1b4a6546.js",
+    "main.js": "/recipes/static/js/main.92203657.js",
     "static/media/maple-leaf.png": "/recipes/static/media/maple-leaf.c395cfbd23f6892a4f6d.png",
     "index.html": "/recipes/index.html",
     "main.f16c1766.css.map": "/recipes/static/css/main.f16c1766.css.map",
-    "main.1b4a6546.js.map": "/recipes/static/js/main.1b4a6546.js.map"
+    "main.92203657.js.map": "/recipes/static/js/main.92203657.js.map"
   },
   "entrypoints": [
     "static/css/main.f16c1766.css",
-    "static/js/main.1b4a6546.js"
+    "static/js/main.92203657.js"
   ]
 }
